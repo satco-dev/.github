@@ -5,4 +5,4 @@ satco is for you!
 
 We are a collective, or guild, of vetted developers, designers, and consultants. We build things that work, communicate without jargon, and stay long after launch.
 
-Learn more at [satco.dev]
+Learn more at [satco.dev](https://satco.dev)
