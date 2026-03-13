@@ -5,4 +5,12 @@ satco is for you!
 
 We are a collective, or guild, of vetted developers, designers, and consultants. We build things that work, communicate without jargon, and stay long after launch.
 
+This GitHub is the place where our members thrive! Create, build, and share anything that you want using satco's shared resources and infrastructure.
+
 Learn more at [satco.dev](https://satco.dev)
+
+Follow us on:
+- [LinkedIn](https://linkedin.com/company/satco)
+- [BlueSky](https://bsky.app/satco.dev)
+- [Threads](https://threads.com/@satcodev)
+- [Instagram](https://instagram.com/satcodev)
